@@ -2,7 +2,7 @@
   "name": "dns-chk-https-get",
   "version": "1.0.0",
   "description": "",
-  "main": "./lib/ip-https-get.js",
+  "main": "./lib/dns-chk-https-get.js",
   "directories": {
     "lib": "lib"
   },
