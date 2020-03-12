@@ -1,0 +1,19 @@
+{
+  "name": "dns-chk-https-get",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/ip-https-get.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GNU",
+  "dependencies": {
+    "async": "^3.2.0",
+    "dns-packet": "^5.2.1",
+    "ip-https-get": "*"
+  }
+}
