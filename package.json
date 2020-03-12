@@ -2,6 +2,7 @@
   "name": "dns-chk-https-get",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/chrisJohn404/dns-chk-https-get.git",
   "main": "./lib/dns-chk-https-get.js",
   "directories": {
     "lib": "lib"
